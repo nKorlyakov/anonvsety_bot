@@ -3,4 +3,4 @@ install:
 	poetry install
 	
 start:
-	poetry run python anonvsety_bot/main.py
+	poetry run python src/main.py
