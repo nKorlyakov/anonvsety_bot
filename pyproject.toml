@@ -4,7 +4,7 @@ version = "1.0"
 description = ""
 authors = ["Nikolay Korlyakov <nkorlyakov67@gmail.com>"]
 readme = "README.md"
-packages = [{include = "anonvsety_bot"}]
+packages = [{include = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.8"
